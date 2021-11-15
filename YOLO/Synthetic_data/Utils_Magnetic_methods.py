@@ -256,7 +256,7 @@ def Plot_X_data(map_lenght, height_2, width_2, example_to_plot, X_data_array_raw
 
 			rect_pixel.append(Rectangle((x0_2,y0_2),bwidth_2,bheight_2, edgecolor='r', facecolor="none"))
 
-		cp_1 = axs[(2*lat_i)].contourf(X, Y, X_data_array_raw[lat_i,example_to_plot,:,:], levels = 40, cmap='seismic')
+		cp_1 = axs[(2*lat_i)].contourf(X, Y, X_data_array_raw[lat_i,example_to_plot,:,:], levels = 18, cmap='seismic')
 		axs[(2*lat_i)].set_xlabel('Position X (m)')
 		axs[(2*lat_i)].set_ylabel('Position Y (m)')
 		axs[(2*lat_i)].set_xticks(np.arange(-25, 25, step=2))
