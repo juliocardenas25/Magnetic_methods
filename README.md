@@ -1,6 +1,6 @@
 # Magnetic_methods
 
-# Step 1: Enabling GPU within your notebook
+# Step 1: Downloading/opening files
 
 Download all files as a .zip file 
 
