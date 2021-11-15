@@ -2,9 +2,9 @@
 
 # Step 1: Downloading/opening files
 
-Download all files as a .zip file 
+### i) Download all files as a .zip
 
-Open Google Colab in your favorite browser. Import the .ipynb file you want to run.
+### ii) Open Google Colab in your favorite browser. Import the .ipynb file you want to run.
 
 # Step 2: Enabling GPU within your notebook
 You will want to enable GPU acceleration within your Colab notebook.
