@@ -1,6 +1,12 @@
 # Magnetic_methods
 
 # Step 1: Enabling GPU within your notebook
+
+Download all files as a .zip file 
+
+Open Google Colab in your favorite browser. Import the .ipynb file you want to run.
+
+# Step 2: Enabling GPU within your notebook
 You will want to enable GPU acceleration within your Colab notebook.
 
 ### Steps:
